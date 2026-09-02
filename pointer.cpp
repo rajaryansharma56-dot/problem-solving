@@ -1,3 +1,11 @@
+// Problem: Basic pointer manipulation
+// Topic: Pointers
+// Language: C++
+//
+// Approach:
+// Use pointers to access and modify the value
+// stored at a memory address.
+
 #include <stdio.h>
 #include <stdlib.h> // Required for the abs() function
 
