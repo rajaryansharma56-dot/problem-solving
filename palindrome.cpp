@@ -1,3 +1,11 @@
+// Problem: Check whether a number is a palindrome
+// Topic: Basic Problem Solving
+// Language: C++
+//
+// Approach:
+// Reverse the digits of the number and compare
+// the reversed number with the original number.
+
 #include<iostream>
 
 using namespace std;
