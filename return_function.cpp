@@ -1,3 +1,10 @@
+// Problem: Find the maximum of four integers using a function
+// Topic: Functions and Basic Problem Solving
+// Language: C++
+//
+// Approach:
+// Create a function that compares four integers
+// and returns the largest value.
 #include <iostream>
 #include <algorithm> // Needed for std::max
 using namespace std;
