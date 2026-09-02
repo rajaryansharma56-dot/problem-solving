@@ -1,10 +1,10 @@
-// Problem: Calculate the area of a rectangle
-// Topic: Basic Programming and Arithmetic
+// Problem: Print a triangle pattern
+// Topic: Nested Loops and Pattern Problems
 // Language: C++
 //
 // Approach:
-// Take the length and breadth as input and
-// calculate the area using length × breadth.
+// Use nested loops to control the rows and
+// columns and print the required triangle pattern.
 
 #include<iostream>
 
