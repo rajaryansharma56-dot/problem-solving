@@ -1,3 +1,11 @@
+// Problem: Print a pyramid pattern
+// Topic: Nested Loops and Pattern Problems
+// Language: C++
+//
+// Approach:
+// Use nested loops to control the rows, spaces,
+// and characters required to create the pyramid.
+
 void printPattern(int n) {
     for (int i = 1; i <= n; i++) {
         // 1. Print leading spaces
