@@ -1,3 +1,11 @@
+// Problem: Print number patterns using nested loops
+// Topic: Nested Loops and Pattern Problems
+// Language: C++
+//
+// Approach:
+// Use nested loops to control rows and columns
+// and generate the required number pattern.
+
 #include<iostream>
 
 using namespace  std;
