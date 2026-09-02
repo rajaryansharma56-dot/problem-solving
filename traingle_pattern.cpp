@@ -1,3 +1,11 @@
+// Problem: Calculate the area of a rectangle
+// Topic: Basic Programming and Arithmetic
+// Language: C++
+//
+// Approach:
+// Take the length and breadth as input and
+// calculate the area using length × breadth.
+
 #include<iostream>
 
 using namespace std;
