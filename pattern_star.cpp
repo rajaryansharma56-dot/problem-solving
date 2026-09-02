@@ -1,3 +1,10 @@
+// Problem: Print a star pattern
+// Topic: Nested Loops and Pattern Problems
+// Language: C++
+//
+// Approach:
+// Use nested loops to control the rows and columns
+// and print the required star pattern.
 void printPattern(int n) {
     for (int i = 1; i <= n; i++) {
         // 1. Print leading spaces
