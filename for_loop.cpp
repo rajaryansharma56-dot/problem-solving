@@ -1,4 +1,13 @@
+// Problem: Number to word mapping using a for loop
+// Topic: Loops and Basic Problem Solving
+// Language: C++
+//
+// Approach:
+// Use a for loop to process the input and
+// display the corresponding number/word.
+
 #include <iostream>
+
 #include <string>
 
 using namespace std;
