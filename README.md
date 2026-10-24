@@ -45,3 +45,11 @@ problem-solving/
 ├── array.cpp
 ├── string.cpp
 └── ...
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
