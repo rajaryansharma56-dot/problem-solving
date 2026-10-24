@@ -52,4 +52,16 @@ problem-solving/
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
