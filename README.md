@@ -52,6 +52,7 @@ problem-solving/
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0009-palindrome-number) |
+| [2235-add-two-integers](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2235-add-two-integers) |
 ## Array
 |  |
 | ------- |
