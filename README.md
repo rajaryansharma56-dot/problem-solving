@@ -52,6 +52,7 @@ problem-solving/
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0009-palindrome-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2469-convert-the-temperature) |
 ## Array
@@ -81,4 +82,8 @@ problem-solving/
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
