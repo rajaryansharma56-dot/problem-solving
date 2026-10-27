@@ -97,6 +97,7 @@ problem-solving/
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0217-contains-duplicate) |
+| [0771-jewels-and-stones](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -106,6 +107,7 @@ problem-solving/
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0771-jewels-and-stones) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
