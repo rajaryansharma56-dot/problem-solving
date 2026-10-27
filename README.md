@@ -53,6 +53,7 @@ problem-solving/
 | ------- |
 | [0009-palindrome-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0009-palindrome-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2469-convert-the-temperature) |
 ## Array
@@ -60,6 +61,7 @@ problem-solving/
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0053-maximum-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
@@ -86,4 +88,12 @@ problem-solving/
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
