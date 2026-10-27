@@ -61,6 +61,7 @@ problem-solving/
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -92,6 +93,7 @@ problem-solving/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
