@@ -60,6 +60,7 @@ problem-solving/
 | [0053-maximum-subarray](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0053-maximum-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,4 +77,8 @@ problem-solving/
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
