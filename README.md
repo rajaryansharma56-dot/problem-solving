@@ -67,6 +67,7 @@ problem-solving/
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -110,6 +111,7 @@ problem-solving/
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0771-jewels-and-stones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
