@@ -60,6 +60,7 @@ problem-solving/
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1672-richest-customer-wealth) |
@@ -92,6 +93,7 @@ problem-solving/
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -101,4 +103,8 @@ problem-solving/
 |  |
 | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
