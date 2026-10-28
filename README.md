@@ -61,6 +61,7 @@ problem-solving/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0136-single-number) |
@@ -132,6 +133,7 @@ problem-solving/
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
