@@ -64,6 +64,7 @@ problem-solving/
 | [0053-maximum-subarray](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1480-running-sum-of-1d-array) |
@@ -119,9 +120,14 @@ problem-solving/
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
