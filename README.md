@@ -60,6 +60,7 @@ problem-solving/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0217-contains-duplicate) |
@@ -99,6 +100,7 @@ problem-solving/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
