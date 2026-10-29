@@ -52,6 +52,7 @@ problem-solving/
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0009-palindrome-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1512-number-of-good-pairs) |
