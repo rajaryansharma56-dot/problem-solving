@@ -68,6 +68,7 @@ problem-solving/
 | [0136-single-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -137,6 +138,7 @@ problem-solving/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
