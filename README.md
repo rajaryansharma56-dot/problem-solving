@@ -66,6 +66,7 @@ problem-solving/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -129,6 +130,7 @@ problem-solving/
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -141,6 +143,7 @@ problem-solving/
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
