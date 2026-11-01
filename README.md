@@ -83,6 +83,7 @@ problem-solving/
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Divide and Conquer
@@ -105,6 +106,7 @@ problem-solving/
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
