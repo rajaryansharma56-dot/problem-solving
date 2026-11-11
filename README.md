@@ -89,6 +89,7 @@ problem-solving/
 | [1920-build-array-from-permutation](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,6 +127,7 @@ problem-solving/
 | [0771-jewels-and-stones](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1512-number-of-good-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
