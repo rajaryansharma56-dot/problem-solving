@@ -1,0 +1,36 @@
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    float power, hours, energy;
+    string category;
+
+    cout << "Enter device power in watts: ";
+    cin >> power;
+
+    cout << "Enter daily operating hours: ";
+    cin >> hours;
+
+    if (power < 0 || hours < 0 || hours > 24) {
+        cout << "Invalid input";
+    }
+    else {
+        energy = (power * hours) / 1000;
+
+        if (energy < 1) {
+            category = "Low Consumption";
+        }
+        else if (energy <= 5) {
+            category = "Moderate Consumption";
+        }
+        else {
+            category = "High Consumption";
+        }
+
+        cout << "Daily energy consumption: " << energy << " kWh" << endl;
+        cout << "Energy category: " << category;
+    }
+
+    return 0;
+}
