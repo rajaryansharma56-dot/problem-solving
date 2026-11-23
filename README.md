@@ -89,6 +89,7 @@ problem-solving/
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
@@ -115,6 +116,7 @@ problem-solving/
 | [1389-create-target-array-in-the-given-order](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +141,7 @@ problem-solving/
 | [0771-jewels-and-stones](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1768-merge-strings-alternately) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
