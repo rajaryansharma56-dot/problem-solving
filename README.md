@@ -55,6 +55,7 @@ problem-solving/
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/2235-add-two-integers) |
@@ -122,6 +123,7 @@ problem-solving/
 | ------- |
 | [0136-single-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
