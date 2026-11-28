@@ -8,13 +8,12 @@ public:
 
             int digit=n%10;
 
-            sum=sum+digit;
-            product=product*digit;
+            sum+=digit;
+            product*=digit;
 
             n=n/10;
-        }
 
+        }
         return product-sum;
-        
     }
 };
