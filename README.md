@@ -76,6 +76,7 @@ problem-solving/
 | [0217-contains-duplicate](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0485-max-consecutive-ones) |
+| [0832-flipping-an-image](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -111,11 +112,13 @@ problem-solving/
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1929-concatenation-of-array) |
@@ -124,6 +127,7 @@ problem-solving/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0136-single-number) |
+| [0832-flipping-an-image](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
@@ -167,6 +171,7 @@ problem-solving/
 | [0088-merge-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/rajaryansharma56-dot/problem-solving/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
